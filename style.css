@@ -296,4 +296,43 @@ i{
     }
 
 }
+@media (max-width: 500px){
+    .main-body-heading{
+        font-size: 140%;
+    }
+    .highlighter{
+        height: 50px;
+        transform: translate(0,60px);
+    }
+    .Sort{
+        transform: translate(-3rem,0);
+        font-size: smaller;
+        
+    }
+    .quote-generator button{
+        padding: 6.5px;
+        font-size: smaller;
+        transform: translate(-3.5rem,0);
+    }
+    .drop-down-menu{
+        transform: translate(-3rem,-8px);
+        font-size: smaller;
+    }
+    .quote-specification-pop-up{
+        width: 16rem;
+        height: 13rem;
+        transform: translate(-55px,3px);
+        font-size: smaller;
+    }
+    .quote-specification-pop-up i{
+        transform: translate(15rem,1.8rem);
+    }
+    .select{
+        transform: translate(1rem,0);
+    }
+    .quote-specification-pop-up form select{
+        transform: translate(0.8rem,0);
+        padding: 6px;
+    }
+}
  
