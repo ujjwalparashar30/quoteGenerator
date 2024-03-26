@@ -334,5 +334,9 @@ i{
         transform: translate(0.8rem,0);
         padding: 6px;
     }
+    .quote{
+        font-size: 10px;
+    }
+
 }
  
